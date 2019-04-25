@@ -1,0 +1,974 @@
+[
+ {
+   "CurrencyName": "ALGERIAN DINAR",
+   "Alpha3Code": "DZD",
+   "NumericCode": "012",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "ANGOLA KWANZA",
+   "Alpha3Code": "AOA",
+   "NumericCode": "973",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "ARGENTINE PESO",
+   "Alpha3Code": "ARS",
+   "NumericCode": "032",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "Australian Dollar",
+   "Alpha3Code": "AUD",
+   "NumericCode": "036",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "AZERBAIJANIAN MANAT",
+   "Alpha3Code": "AZN",
+   "NumericCode": "944",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "BAHAMIAN DOLLAR",
+   "Alpha3Code": "BSD",
+   "NumericCode": "044",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "BAHRAINI DINAR",
+   "Alpha3Code": "BHD",
+   "NumericCode": "048",
+   "CurrencyExponent": "3"
+ },
+ {
+   "CurrencyName": "BAHT",
+   "Alpha3Code": "THB",
+   "NumericCode": "764",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "BALBOA",
+   "Alpha3Code": "PAB",
+   "NumericCode": "590",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "BARBADOS DOLLAR",
+   "Alpha3Code": "BBD",
+   "NumericCode": "052",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "BELARUSSIAN RUBLE",
+   "Alpha3Code": "BYN",
+   "NumericCode": "933",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "BELIZE DOLLAR",
+   "Alpha3Code": "BZD",
+   "NumericCode": "084",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "BERMUDAN DOLLAR",
+   "Alpha3Code": "BMD",
+   "NumericCode": "060",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "BHUTANESE NGULTRUM",
+   "Alpha3Code": "BTN",
+   "NumericCode": "064",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "BOLIVAR FUERTE",
+   "Alpha3Code": "VEF",
+   "NumericCode": "937",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "BOLIVAR FUERTE",
+   "Alpha3Code": "ESA",
+   "NumericCode": "996",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "BOLIVIAN",
+   "Alpha3Code": "BOB",
+   "NumericCode": "068",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "British Pound Sterli",
+   "Alpha3Code": "GBP",
+   "NumericCode": "826",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "BRUNEI DOLLAR",
+   "Alpha3Code": "BND",
+   "NumericCode": "096",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "BURUNDI FRANC",
+   "Alpha3Code": "BIF",
+   "NumericCode": "108",
+   "CurrencyExponent": "0"
+ },
+ {
+   "CurrencyName": "C.F.A. FRANC",
+   "Alpha3Code": "XPF",
+   "NumericCode": "953",
+   "CurrencyExponent": "0"
+ },
+ {
+   "CurrencyName": "C.F.A. FRANC BCEAO",
+   "Alpha3Code": "XOF",
+   "NumericCode": "952",
+   "CurrencyExponent": "0"
+ },
+ {
+   "CurrencyName": "C.F.A. FRANC BEAC",
+   "Alpha3Code": "XAF",
+   "NumericCode": "950",
+   "CurrencyExponent": "0"
+ },
+ {
+   "CurrencyName": "Canadian Dollar",
+   "Alpha3Code": "CAD",
+   "NumericCode": "124",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "CAYMAN ISL DOLLAR",
+   "Alpha3Code": "KYD",
+   "NumericCode": "136",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "CHILEAN PESO",
+   "Alpha3Code": "CLP",
+   "NumericCode": "152",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "CHINESE RENMINBI",
+   "Alpha3Code": "CNX",
+   "NumericCode": "158",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "COLOMBIAN PESO",
+   "Alpha3Code": "COP",
+   "NumericCode": "170",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "COLON",
+   "Alpha3Code": "CRC",
+   "NumericCode": "188",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "COMOROS FRANC",
+   "Alpha3Code": "KMF",
+   "NumericCode": "174",
+   "CurrencyExponent": "0"
+ },
+ {
+   "CurrencyName": "CONGOLESE FRANC",
+   "Alpha3Code": "CDF",
+   "NumericCode": "976",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "CONVERTIBLE MARK",
+   "Alpha3Code": "BAM",
+   "NumericCode": "977",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "CORDOBA ORO",
+   "Alpha3Code": "NIO",
+   "NumericCode": "558",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "CUBAN PESO",
+   "Alpha3Code": "CUP",
+   "NumericCode": "192",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "CZECH KORUNA",
+   "Alpha3Code": "CZK",
+   "NumericCode": "203",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "DA LASI",
+   "Alpha3Code": "GMD",
+   "NumericCode": "270",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "Danish Krone",
+   "Alpha3Code": "DKK",
+   "NumericCode": "208",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "DENAR",
+   "Alpha3Code": "MKD",
+   "NumericCode": "807",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "DJIBOUTI FRANC",
+   "Alpha3Code": "DJF",
+   "NumericCode": "262",
+   "CurrencyExponent": "0"
+ },
+ {
+   "CurrencyName": "DOBRA",
+   "Alpha3Code": "STD",
+   "NumericCode": "678",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "DOLLAR",
+   "Alpha3Code": "NAD",
+   "NumericCode": "516",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "DOMINICAN PESO",
+   "Alpha3Code": "DOP",
+   "NumericCode": "214",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "DONG",
+   "Alpha3Code": "VND",
+   "NumericCode": "704",
+   "CurrencyExponent": "0"
+ },
+ {
+   "CurrencyName": "DRAM",
+   "Alpha3Code": "AMD",
+   "NumericCode": "051",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "E. CARIBBEAN D LR",
+   "Alpha3Code": "XCD",
+   "NumericCode": "951",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "Egyptian pound",
+   "Alpha3Code": "EGP",
+   "NumericCode": "818",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "EL SALVADOR COLON",
+   "Alpha3Code": "SVC",
+   "NumericCode": "222",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "ESCUDO",
+   "Alpha3Code": "CVE",
+   "NumericCode": "132",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "ETHIOPEAN BIRR",
+   "Alpha3Code": "ETB",
+   "NumericCode": "230",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "Euro",
+   "Alpha3Code": "EUR",
+   "NumericCode": "978",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "FALKLAND ISL POUND",
+   "Alpha3Code": "FKP",
+   "NumericCode": "238",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "FIJI DOLLAR",
+   "Alpha3Code": "FJD",
+   "NumericCode": "242",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "FORINT",
+   "Alpha3Code": "HUF",
+   "NumericCode": "348",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "GHANA CEDI",
+   "Alpha3Code": "GHS",
+   "NumericCode": "936",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "GIBRALTAR POUND",
+   "Alpha3Code": "GIP",
+   "NumericCode": "292",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "GOURDE",
+   "Alpha3Code": "HTG",
+   "NumericCode": "332",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "GUARANI",
+   "Alpha3Code": "PYG",
+   "NumericCode": "600",
+   "CurrencyExponent": "0"
+ },
+ {
+   "CurrencyName": "GUILDER",
+   "Alpha3Code": "AWG",
+   "NumericCode": "533",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "GUINEA FRANC",
+   "Alpha3Code": "GNF",
+   "NumericCode": "324",
+   "CurrencyExponent": "0"
+ },
+ {
+   "CurrencyName": "GUYANA DOLLAR",
+   "Alpha3Code": "GYD",
+   "NumericCode": "328",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "HONG-KONG DOLLAR",
+   "Alpha3Code": "HKD",
+   "NumericCode": "344",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "HRYVNIA",
+   "Alpha3Code": "UAH",
+   "NumericCode": "980",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "ICELAND KRONA",
+   "Alpha3Code": "ISK",
+   "NumericCode": "352",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "INDIAN RUPEE",
+   "Alpha3Code": "INR",
+   "NumericCode": "356",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "Indonesian Rupiah",
+   "Alpha3Code": "IDR",
+   "NumericCode": "360",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "IRAQI DINAR",
+   "Alpha3Code": "IQD",
+   "NumericCode": "368",
+   "CurrencyExponent": "3"
+ },
+ {
+   "CurrencyName": "JAMAICAN DOLLAR",
+   "Alpha3Code": "JMD",
+   "NumericCode": "388",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "Japanese Yen",
+   "Alpha3Code": "JPY",
+   "NumericCode": "392",
+   "CurrencyExponent": "0"
+ },
+ {
+   "CurrencyName": "JORDANIAN DINAR",
+   "Alpha3Code": "JOD",
+   "NumericCode": "400",
+   "CurrencyExponent": "3"
+ },
+ {
+   "CurrencyName": "KENYAN SHILLING",
+   "Alpha3Code": "KES",
+   "NumericCode": "404",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "KINA",
+   "Alpha3Code": "PGK",
+   "NumericCode": "598",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "KIP",
+   "Alpha3Code": "LAK",
+   "NumericCode": "418",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "KUNA",
+   "Alpha3Code": "HRK",
+   "NumericCode": "191",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "KUWAITI DINAR",
+   "Alpha3Code": "KWD",
+   "NumericCode": "414",
+   "CurrencyExponent": "3"
+ },
+ {
+   "CurrencyName": "KWACHA",
+   "Alpha3Code": "MWK",
+   "NumericCode": "454",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "KYRGYZSTAN SOM",
+   "Alpha3Code": "KGS",
+   "NumericCode": "417",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "LARI",
+   "Alpha3Code": "GEL",
+   "NumericCode": "981",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "LEBANESE POUND",
+   "Alpha3Code": "LBP",
+   "NumericCode": "422",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "LEK",
+   "Alpha3Code": "ALL",
+   "NumericCode": "008",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "LEMPIRA",
+   "Alpha3Code": "HNL",
+   "NumericCode": "340",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "LEONE",
+   "Alpha3Code": "SLL",
+   "NumericCode": "694",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "LESOTHO LOTI",
+   "Alpha3Code": "LSL",
+   "NumericCode": "426",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "LEU",
+   "Alpha3Code": "MDL",
+   "NumericCode": "498",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "LIBERIA DOLLAR",
+   "Alpha3Code": "LRD",
+   "NumericCode": "430",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "LIBYAN DINAR",
+   "Alpha3Code": "LYD",
+   "NumericCode": "434",
+   "CurrencyExponent": "3"
+ },
+ {
+   "CurrencyName": "LILANGENI",
+   "Alpha3Code": "SZL",
+   "NumericCode": "748",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "LITHUANIA",
+   "Alpha3Code": "LTL",
+   "NumericCode": "440",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "MALAGASCY ARIARY",
+   "Alpha3Code": "MGA",
+   "NumericCode": "969",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "Malaysian Ringits",
+   "Alpha3Code": "MYR",
+   "NumericCode": "458",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "MALDIVE RUFIYAA",
+   "Alpha3Code": "MVR",
+   "NumericCode": "462",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "MANAT",
+   "Alpha3Code": "TMT",
+   "NumericCode": "934",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "MAURITIUS RUPEE",
+   "Alpha3Code": "MUR",
+   "NumericCode": "480",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "Mexican Peso",
+   "Alpha3Code": "MXN",
+   "NumericCode": "484",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "MOROCCAN DIRHAM",
+   "Alpha3Code": "MAD",
+   "NumericCode": "504",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "MOZAMBIQUE METICAL",
+   "Alpha3Code": "MZN",
+   "NumericCode": "943",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "MYANMAR KYAT",
+   "Alpha3Code": "MMK",
+   "NumericCode": "104",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "NAIRA",
+   "Alpha3Code": "NGN",
+   "NumericCode": "566",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "NEPALESE RUPEE",
+   "Alpha3Code": "NPR",
+   "NumericCode": "524",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "NETH. ANT. GUILDER",
+   "Alpha3Code": "ANG",
+   "NumericCode": "532",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "NEW AFGHANI",
+   "Alpha3Code": "AFN",
+   "NumericCode": "971",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "NEW BULGARIAN LEV",
+   "Alpha3Code": "BGN",
+   "NumericCode": "975",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "NEW RUBLE",
+   "Alpha3Code": "RUB",
+   "NumericCode": "643",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "NEW SHEKEL",
+   "Alpha3Code": "ILS",
+   "NumericCode": "376",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "NEW TAIWAN DOLLAR",
+   "Alpha3Code": "TWD",
+   "NumericCode": "901",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "New Zealand Dollar",
+   "Alpha3Code": "NZD",
+   "NumericCode": "554",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "Norwegian Krone",
+   "Alpha3Code": "NOK",
+   "NumericCode": "578",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "NUEVO SOL",
+   "Alpha3Code": "PEN",
+   "NumericCode": "604",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "OFFSHORE RENMINBI",
+   "Alpha3Code": "CNH",
+   "NumericCode": "157",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "OUGUIYA",
+   "Alpha3Code": "MRO",
+   "NumericCode": "478",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "PA ANGA",
+   "Alpha3Code": "TOP",
+   "NumericCode": "776",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "PAKISTAN RUPEE",
+   "Alpha3Code": "PKR",
+   "NumericCode": "586",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "PATACA",
+   "Alpha3Code": "MOP",
+   "NumericCode": "446",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "PESO URUGUAYO",
+   "Alpha3Code": "UYU",
+   "NumericCode": "858",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "PHILIPINE PESO",
+   "Alpha3Code": "PHP",
+   "NumericCode": "608",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "Polish Zloty",
+   "Alpha3Code": "PLN",
+   "NumericCode": "985",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "PULA",
+   "Alpha3Code": "BWP",
+   "NumericCode": "072",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "QATARI RIAL",
+   "Alpha3Code": "QAR",
+   "NumericCode": "634",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "QUETZAL",
+   "Alpha3Code": "GTQ",
+   "NumericCode": "320",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "RAND",
+   "Alpha3Code": "ZAR",
+   "NumericCode": "710",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "REAL",
+   "Alpha3Code": "BRL",
+   "NumericCode": "986",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "REVAL. BELARUS RUBLE",
+   "Alpha3Code": "BYR",
+   "NumericCode": "974",
+   "CurrencyExponent": "0"
+ },
+ {
+   "CurrencyName": "RIAL",
+   "Alpha3Code": "OMR",
+   "NumericCode": "512",
+   "CurrencyExponent": "3"
+ },
+ {
+   "CurrencyName": "RIEL",
+   "Alpha3Code": "KHR",
+   "NumericCode": "116",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "RIYAL",
+   "Alpha3Code": "SAR",
+   "NumericCode": "682",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "ROMANIAN LEU",
+   "Alpha3Code": "RON",
+   "NumericCode": "946",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "RWANDA FRANC",
+   "Alpha3Code": "RWF",
+   "NumericCode": "646",
+   "CurrencyExponent": "0"
+ },
+ {
+   "CurrencyName": "S. KOREAN WON",
+   "Alpha3Code": "KRW",
+   "NumericCode": "410",
+   "CurrencyExponent": "0"
+ },
+ {
+   "CurrencyName": "SERBIAN DINAR",
+   "Alpha3Code": "RSD",
+   "NumericCode": "941",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "SEYCHELLES RUPEE",
+   "Alpha3Code": "SCR",
+   "NumericCode": "690",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "Singapore Dollar",
+   "Alpha3Code": "SGD",
+   "NumericCode": "702",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "SOLOMON ISL DOLLAR",
+   "Alpha3Code": "SBD",
+   "NumericCode": "090",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "SOMALI SHILLING",
+   "Alpha3Code": "SOS",
+   "NumericCode": "706",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "SOUTH SUDAN POUND",
+   "Alpha3Code": "SSP",
+   "NumericCode": "728",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "SRI LANKA RUPEE",
+   "Alpha3Code": "LKR",
+   "NumericCode": "144",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "ST. HELENA POUND",
+   "Alpha3Code": "SHP",
+   "NumericCode": "654",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "SURINAME DOLLAR",
+   "Alpha3Code": "SRD",
+   "NumericCode": "968",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "Swedish Krona",
+   "Alpha3Code": "SEK",
+   "NumericCode": "752",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "Swiss Franc",
+   "Alpha3Code": "CHF",
+   "NumericCode": "756",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "TAJIKISTAN SOMONI",
+   "Alpha3Code": "TJS",
+   "NumericCode": "972",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "TAKA",
+   "Alpha3Code": "BDT",
+   "NumericCode": "050",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "TALA",
+   "Alpha3Code": "WST",
+   "NumericCode": "882",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "TANZANIAN SHILLING",
+   "Alpha3Code": "TZS",
+   "NumericCode": "834",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "TENGE",
+   "Alpha3Code": "KZT",
+   "NumericCode": "398",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "TEST ZZZ DOLLAR",
+   "Alpha3Code": "ZZZ",
+   "NumericCode": "099",
+   "CurrencyExponent": "4"
+ },
+ {
+   "CurrencyName": "TRIN. & TOB. DOLLAR",
+   "Alpha3Code": "TTD",
+   "NumericCode": "780",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "TUGRIK",
+   "Alpha3Code": "MNT",
+   "NumericCode": "496",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "TUNISIAN DINAR",
+   "Alpha3Code": "TND",
+   "NumericCode": "788",
+   "CurrencyExponent": "3"
+ },
+ {
+   "CurrencyName": "TURKISH LIRA",
+   "Alpha3Code": "TRY",
+   "NumericCode": "949",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "UAE DIRHAM",
+   "Alpha3Code": "AED",
+   "NumericCode": "784",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "UGANDA SHILLING",
+   "Alpha3Code": "UGX",
+   "NumericCode": "800",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "US Dollar",
+   "Alpha3Code": "USD",
+   "NumericCode": "840",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "UZBEKISTAN SUM",
+   "Alpha3Code": "UZS",
+   "NumericCode": "860",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "VATU",
+   "Alpha3Code": "VUV",
+   "NumericCode": "548",
+   "CurrencyExponent": "0"
+ },
+ {
+   "CurrencyName": "XXXDOLLAR",
+   "Alpha3Code": "DEF",
+   "NumericCode": "989",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "XXXEURO",
+   "Alpha3Code": "GHI",
+   "NumericCode": "990",
+   "CurrencyExponent": "3"
+ },
+ {
+   "CurrencyName": "XXXLIRA",
+   "Alpha3Code": "LMN",
+   "NumericCode": "992",
+   "CurrencyExponent": "5"
+ },
+ {
+   "CurrencyName": "XXXPOUND",
+   "Alpha3Code": "IJK",
+   "NumericCode": "991",
+   "CurrencyExponent": "4"
+ },
+ {
+   "CurrencyName": "XXXREAL",
+   "Alpha3Code": "XXX",
+   "NumericCode": "987",
+   "CurrencyExponent": "0"
+ },
+ {
+   "CurrencyName": "XXXRUPEE",
+   "Alpha3Code": "ABC",
+   "NumericCode": "988",
+   "CurrencyExponent": "1"
+ },
+ {
+   "CurrencyName": "YEMENI RIAL",
+   "Alpha3Code": "YER",
+   "NumericCode": "886",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "YUAN RENMINBI",
+   "Alpha3Code": "CNY",
+   "NumericCode": "156",
+   "CurrencyExponent": "2"
+ },
+ {
+   "CurrencyName": "ZAMBIAN KWACHA",
+   "Alpha3Code": "ZMW",
+   "NumericCode": "967",
+   "CurrencyExponent": "2"
+ }
+]
